@@ -1,0 +1,11 @@
+{
+  "name": "spaceninjas-dashboard",
+  "version": "0.0.1",
+  "description": "authenticated web portal for executing remote scripts on the host",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Stewart",
+  "license": "MIT"
+}
